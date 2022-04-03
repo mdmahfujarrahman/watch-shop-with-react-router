@@ -1,0 +1,9 @@
+.grandpa,.grandpa div{
+    border: 2px solid orange; ;
+    margin: 5px 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.grandpa p{
+    margin: 5px 10px;
+}

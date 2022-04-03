@@ -1,0 +1,8 @@
+.watch-container {
+    height: 400px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
+.watch-container img {
+    height: 250px;
+}
